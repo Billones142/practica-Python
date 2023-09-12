@@ -1,0 +1,4 @@
+* mostrar stock * pedir stock
+COMPLETADO * revisar pedidos * tiempo de entrega aproximado *mostrar costo de envio
+COMPLETADO * registro entrada y salida de empleados * control de puestos
+COMPLETADO * registro de pagos
